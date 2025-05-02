@@ -7,7 +7,6 @@ Passionate about securing networks and protecting data, I specialize in cybersec
 ## Objective
 Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, leveraging skills in Linux security, Python automation, and network defense. Committed to continuous learning and collaborative problem-solving to strengthen cybersecurity resilience.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,8 +17,31 @@ Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, l
 | Linux System Administration                | SOC Automation Lab|
 | Python Programming | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
+
+### 🔧 **Tools & Technologies**  
+
+#### **Network Security & Forensics**  
+- **Nmap** – Network mapping & vulnerability scanning  
+- **Wireshark** – Packet analysis & network traffic inspection  
+- **Nessus** – Vulnerability assessment & scanning  
+
+#### **Penetration Testing & Ethical Hacking**  
+- **Kali Linux** – Security testing & penetration framework  
+- **Metasploit** – Exploitation framework for vulnerability testing  
+- **Burp Suite** – Web application security testing  
+
+#### **System Administration & Automation**  
+- **Linux Security Tools** – Hardening, auditing & system security management  
+- **PowerShell** – Windows system administration & automation  
+- **Python** – Scripting for security automation & analysis  
+
+#### **Cloud & SIEM Technologies**  
+- **Azure Security** – Cloud security governance & compliance  
+- **Splunk** – Security Information and Event Management (SIEM)  
+- **ELK Stack** – Log analysis & threat detection  
+
+
 
 ### Network
 <div>
@@ -39,16 +61,6 @@ Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, l
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
