@@ -22,7 +22,7 @@ Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, l
 
 ---
 
-### 🔧 **Tools & Technologies**  
+## Tools & Technologies  
 
 #### **Network Security & Forensics**  
 - **Nmap** – Network mapping & vulnerability scanning  
@@ -46,7 +46,7 @@ Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, l
 
 
 
-### Network
+## Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
