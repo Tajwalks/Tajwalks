@@ -16,6 +16,9 @@ Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, l
 | Linux Security      | SOC Automation Lab|
 | Linux System Administration                | SOC Automation Lab|
 | Python Programming | SOC Automation Lab|
+| Network Security Concepts |Project Example | 
+| Netowrking Concepts | Lab Example |
+| Networking with Microsoft technologies|
 
 ---
 
