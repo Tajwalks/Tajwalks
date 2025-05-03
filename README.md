@@ -1,4 +1,4 @@
-# Hello, I'm Taj
+#Taj Walker
 <a href="https://linkedin.com/in/taj-walker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Passionate about securing networks and protecting data, I specialize in cybersecurity with hands-on experience in penetration testing, digital forensics, and incident response. With a strong foundation in Linux security, Python scripting, and network security concepts, I am eager to apply my skills in real-world security challenges.
@@ -62,8 +62,7 @@ Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, l
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    
 </div>
 
 ## Projects
