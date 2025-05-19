@@ -21,6 +21,26 @@ Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, l
 | Networking with Microsoft technologies|
 
 ---
+## Projects
+
+### Threat Detection & Analysis
+**Project:** Build a SIEM (Security Information & Event Management) lab using ELK Stack (Elasticsearch, Logstash, Kibana) or Splunk Free Tier.  
+**Action:** Ingest firewall, Windows Event, and Apache logs, then create detection rules for brute-force attacks or suspicious logins.  
+**Showcase:** Document findings in a GitHub repo with screenshots and analysis.  
+
+### Malware Analysis & Reverse Engineering
+**Project:** Analyze real malware samples (from MalwareBazaar or VirusTotal) in a sandbox (Cuckoo Sandbox, REMnux).  
+**Action:** Write a report on how the malware behaves (registry changes, network calls).  
+**Bonus:** Use Ghidra or IDA Free to reverse-engineer a simple malware sample.  
+
+### Network Security & Penetration Testing
+**Project:** Set up a hacking lab (Metasploitable, DVWA) and perform penetration tests.  
+**Action:** Write a detailed report with vulnerabilities found (SQLi, XSS, misconfigurations) and remediation steps.  
+**Tools Used:** Burp Suite, Nmap, Metasploit, Wireshark.  
+
+### Automated Security Tool Development
+**Project:** Script a custom vulnerability scanner (Python + Nmap API) or a log analyzer for suspicious activity.  
+**GitHub:** Share the code with a README explaining its use case.  
 
 ## Tools & Technologies  
 
