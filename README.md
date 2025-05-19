@@ -9,15 +9,15 @@ Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, l
 ## Skills
 
 | Skill                                         | 
-|-----------------------------------------------|----------------------------|
-| Digital Forensics          | <a href="https://google.com">Detection Lab</a>|
-| Intrusion detection and incident response | <a href="https://google.com">Detection Lab</a>|
-| Routing and switching                         | SOC Automation Lab|
-| Linux Security      | SOC Automation Lab|
-| Linux System Administration                | SOC Automation Lab|
-| Python Programming | SOC Automation Lab|
-| Network Security Concepts |Project Example | 
-| Netowrking Concepts | Lab Example |
+|-----------------------------------------------|
+| Digital Forensics          | 
+| Intrusion detection and incident response |
+| Routing and switching                         | 
+| Linux Security      | 
+| Linux System Administration                | 
+| Python Programming |
+| Network Security Concepts |
+| Netowrking Concepts |
 | Networking with Microsoft technologies|
 
 ---
