@@ -8,7 +8,7 @@ Passionate about securing networks and protecting data, I specialize in cybersec
 Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, leveraging skills in Linux security, Python automation, and network defense. Committed to continuous learning and collaborative problem-solving to strengthen cybersecurity resilience.
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | 
 |-----------------------------------------------|----------------------------|
 | Digital Forensics          | <a href="https://google.com">Detection Lab</a>|
 | Intrusion detection and incident response | <a href="https://google.com">Detection Lab</a>|
