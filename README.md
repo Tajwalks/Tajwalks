@@ -1,4 +1,4 @@
-## Taj Walker
+## Hi, I'm Taj Walker
 <a href="https://linkedin.com/in/taj-walker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Passionate about securing networks and protecting data, I specialize in cybersecurity with hands-on experience in penetration testing, digital forensics, and incident response. With a strong foundation in Linux security, Python scripting, and network security concepts, I am eager to apply my skills in real-world security challenges.
