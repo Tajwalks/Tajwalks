@@ -6,18 +6,19 @@ Passionate about securing networks and protecting data, I specialize in cybersec
 
 ## Objective
 Eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, leveraging skills in Linux security, Python automation, and network defense. Committed to continuous learning and collaborative problem-solving to strengthen cybersecurity resilience.
-## Skills
+## 🔥 Technical Skills
 
-|-----------------------------------------------|
-| Digital Forensics          | 
-| Intrusion detection and incident response |
-| Routing and switching                         | 
-| Linux Security      | 
-| Linux System Administration                | 
-| Python Programming |
-| Network Security Concepts |
-| Netowrking Concepts |
-| Networking with Microsoft technologies|
+| 🛠 Skill Set |
+|-------------|
+| **Digital Forensics** |
+| **Intrusion Detection & Incident Response** |
+| **Routing & Switching** |
+| **Linux Security** |
+| **Linux System Administration** |
+| **Python Programming** |
+| **Network Security Concepts** |
+| **Networking Concepts** |
+| **Networking with Microsoft Technologies** |
 
 ---
 ## Projects
